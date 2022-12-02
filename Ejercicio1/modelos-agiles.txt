@@ -1,0 +1,4 @@
+Los dos modelos agiles mas utilizados son:
+
+-Scrum
+-Kanban
